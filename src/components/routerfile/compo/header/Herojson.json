@@ -1,0 +1,284 @@
+[
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"odisha",
+      "capital":"Bhubaneswar"
+   
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Tamil Nadu",
+      "capital":"chennai"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 3,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Rajasthan",
+      "capital":"jaipur"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 4,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Maharashtra",
+      "capital":"Mumbai"
+
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 5,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Andhra Pradesh",
+      "capital":"Amaravati"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 6,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Arunachal Pradesh",
+      "capital":"Itanagar"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 7,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Assam",
+      "capital":"Dispur"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 8,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Chhattisgarh",
+      "capital":"Raipur"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 9,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Goa",
+      "capital":"Panaji"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 10,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Gujarat",
+      "capital":"Gandhinagar"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 11,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Himachal Pradesh",
+      "capital":"Shimla"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 12,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Jharkhand",
+      "capital":"Ranchi"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 13,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Karnataka",
+      "capital":"Bengaluru"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 14,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Kerala",
+      "capital":"Thiruvananthapuram"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 15,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Madhya Pradesh",
+      "capital":"Bhopal"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 16,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Maharashtra",
+      "capital":"Mumbai"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 17,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Manipur",
+      "capital":"Imphal"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 18,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Meghalaya",
+      "capital":"Shillong"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 19,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Mizoram",
+      "capital":"Aizawl"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 20,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Nagaland",
+      "capital":"Kohima"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 21,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Punjab",
+      "capital":"Chandigarh"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 22,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Telangana",
+      "capital":"Hyderabad"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 23,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Sikkim",
+      "capital":"Gangtok"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 24,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Tripura",
+      "capital":"Agartala"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 25,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Uttar Pradesh",
+      "capital":"Lucknow"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 26,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Uttarakhand",
+      "capital":"Dehradun"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 27,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"West Bengal",
+      "capital":"Kolkata"
+
+    },
+   
+    {
+      "userId": 1,
+      "id": 28,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+      "state":"Bihar",
+      "capital":"Patna"
+
+    }
+   
+]
